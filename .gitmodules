@@ -1,0 +1,11 @@
+[submodule "cli"]
+	path = cli
+	url = git@github.com:glifio/cli.git
+	branch = main
+[submodule "go-pools"]
+	path = go-pools
+	url = git@github.com:glifio/go-pools.git
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = git@github.com:jimpick/go-ethereum.git
+	branch = jim_patch_secp256k1
